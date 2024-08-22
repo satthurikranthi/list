@@ -1,0 +1,18 @@
+ul{
+    /*list-style-type:name;*/
+
+}
+
+
+li::marker{
+    content:"--->"
+}
+
+
+dt{
+color: blueviolet;
+}
+p{
+    background-color: aqua;
+    color: black;
+}
